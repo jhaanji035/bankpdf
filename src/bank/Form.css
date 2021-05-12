@@ -1,0 +1,12 @@
+.title{
+    background-color: black;color: white;
+    padding: 6px;
+    margin:1em;
+}
+.flex-wrap-business-prop {
+    display: flex;
+}
+.flex-wrap-business-prop .form-check{
+    padding-left: 2.25rem;
+}
+.yearex{width: 100px !important;}
